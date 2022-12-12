@@ -1,24 +1,28 @@
-# fleet-lock-616
+<h1>TRIPVILLA CLONED</h1>
+<br/>
+<p>Largest holiday home rental portal in Asia. Browse your ideal vacation home from over 100000 holiday homes spread across destinations.It is e-tourism Website.Where you can visit hotels, book hotels or resturents in all over the word.</p>
+<br/>
 
-# About Project
+<h3>Team Mmember :</h3>
 
-It is e-tourism Website.Where you can visit hotels, book hotels or resturents in all over the word.
+<p>
+Team Lead : YASH RAJ
+team member1: TARUN UPADHYAY
+team member2: PRAFUL DALWANI  
+team member3: GOKUL 
+team member4: PRIYANKA DORA
+</p>
 
-It is collaborative project , build by 5 team members.
+<h3>Skills :</h3>
 
-Executed in 5 days.
-
-# Tech Stack
-HTML
-
-CSS
-
-JavaScript
+<p>
+HTML , CSS , JavaScript
+</p>
 
 
+<h3>FEATURE :</h3>
 
-# Features
-
+<p>
 User can creat acount , login in webiste.
 
 User can select product what,and can buy a product.
@@ -30,7 +34,7 @@ Can use sorting ,filtering , and seraching functionality.
 User resoponsive website which is build on minimum sources.
 
 Fully user resoponsive website.
-
+</p>
 
 
 
